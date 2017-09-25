@@ -2,7 +2,7 @@
 
 var a = 8,
 	h = 10,
-	triangleArea = a*h/2;
+	triangleArea = a * h / 2;
 
 alert('wynik = ' + triangleArea + ' jednostek^2');
 
